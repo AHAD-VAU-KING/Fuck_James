@@ -14,4 +14,4 @@ git clone https://github.com/AHAD-VAU-KING/Fuck_James
 
 
 
-✔️ python Fuck_Jamss.py
+✔️ python Fuck_James.py
